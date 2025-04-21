@@ -1,0 +1,5 @@
+{
+  "name": "proxy-hls-vercel",
+  "version": "1.0.0",
+  "main": "api/proxy.js"
+}
